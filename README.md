@@ -3,7 +3,7 @@
 Uma aplicação Frontend responsiva.
 
 
-[<img src="./imagens/demo.gif" alt="gif projeto magick ia">](https://luanaleteia.github.io/projeto-magickia/)
+![Demonstração do site](imagens/tela.gif)
 
 ## 💻 Tecnologias Utilizadas
 - HTML
