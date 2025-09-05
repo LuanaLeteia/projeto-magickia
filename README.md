@@ -36,9 +36,9 @@ The project features an aesthetic inspired by mysticism, with visual effects and
 
 💻 Technologies Used
 
-HTML
-CSS
-JS
+- HTML
+- CSS
+- JS
 
 
 🛠 Features
